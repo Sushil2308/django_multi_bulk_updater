@@ -1,1 +1,0 @@
-from .parallelExcecutor import ParallelyQueryExcecutor
